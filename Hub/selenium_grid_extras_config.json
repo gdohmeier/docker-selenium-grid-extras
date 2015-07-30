@@ -1,0 +1,24 @@
+{
+  "theConfigMap": {
+    "grid_extras_auto_update": "0",
+    "auto_start_hub": "1",
+    "default_role": "hub",
+    "node_config_files": [],
+    "hub_config": {},
+    "hub_config_files": [
+      "hub_4444.json"
+    ],
+    "iedriver": {
+      "version": "2.46.0"
+    },
+    "auto_start_node": "0",
+    "auto_update_drivers": "0",
+    "chromedriver": {
+      "version": "2.16"
+    },
+    "webdriver": {
+      "version": "2.46.0"
+    },
+    "log_maximum_age_ms": 864000000
+  }
+}
